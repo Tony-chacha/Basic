@@ -1,2 +1,2 @@
-# Basic
-This is code for an app to roll a dice.
+# Roll Dice App
+This code develops an app that rolls a dice. Basic level.
